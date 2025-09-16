@@ -1,0 +1,14 @@
+{
+    "Footwork": 1.3,
+    "Head Position": 0.5,
+    "Swing Control": 6.8,
+    "Balance": 8.4,
+    "Follow-through": 6.8,
+    "Feedback": {
+        "Footwork": "Improve toe alignment for better balance.",
+        "Head Position": "Keep head aligned over knee during follow-through.",
+        "Swing Control": "Maintain consistent elbow angle throughout.",
+        "Balance": "Reduce excessive spine lean to improve control.",
+        "Follow-through": "Focus on smooth elbow extension after impact."
+    }
+}
